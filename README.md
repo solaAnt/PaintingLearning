@@ -1,4 +1,4 @@
 # PaintingLearning
 绘画学习过程产物作品
-![image](https://github.com/solaAnt/PaintingLearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%BA%A7%E7%89%A9/31.jpg)
-![image](https://github.com/solaAnt/PaintingLearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%BA%A7%E7%89%A9/27.jpg)
+![image](https://github.com/solaAnt/PaintingLearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%BA%A7%E7%89%A9/32.jpg)
+![image](https://github.com/solaAnt/PaintingLearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%BA%A7%E7%89%A9/33.jpg)
